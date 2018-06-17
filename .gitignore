@@ -1,0 +1,4 @@
+conf/data/
+conf/logs/
+yarn-error.log
+node_modules/
